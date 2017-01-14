@@ -123,7 +123,8 @@ tagcloud: true
 # Blogroll, Link exchange | 友情链接
 # friends: false
 friends:
-  name: http://luuman.github.io/
+  luuman: http://luuman.github.io/
+  浮生: http://www.fengchenguyi.com/
 
 # 打赏
 # 请在需要打赏的文章的md文件头部，设置属性reward: true
