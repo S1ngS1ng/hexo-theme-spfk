@@ -13,6 +13,7 @@ menu:
 # 随笔: /tags/随笔
   工具控: /tags/Tools
   Mac 系列: /tags/Mac
+  FCC 算法题详解: /tags/FCC
 
 # Link to your avatar | 填写头像地址
 avatar: img/head.jpg
@@ -49,15 +50,16 @@ subnav:
 # 选一个作为网站评论系统，其他保持禁用。
 
 disqus: 
-  #on: true
-  shortname: 
+  on: true
+  shortname: singsing-io-blog
   # https://help.disqus.com/customer/en/portal/articles/466208-what-s-a-shortname-
   # It is unnecessary to enable disqus here if 
   # you have set "disqus_shortname" in your site's "_config.yml" 
 
 duoshuo: 
-  on: true
-  domain: singsing
+  # on: true
+  domain:
+  # domain: singsing
   # 是否开启多说评论，http://duoshuo.com/create-site/
   # 使用上面网址登陆你的多说，然后创建站点，在 domain 中填入你设定的域名前半部分
   # http://<要填的部分>.duoshuo.com (domain只填上<>里的内容，不要填整个网址)
